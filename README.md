@@ -56,7 +56,6 @@ _Herramientas utilizadas para crear el proyecto_
 * [Node.js](https://nodejs.org/es/) - Entorno gráfico
 * [Typescript](https://www.typescriptlang.org/) - Lenguaje de programación fuertemente tipado que se basa en JavaScript
 * [npm](https://www.npmjs.com/) -  Node Package Manager, ayuda a cada desarrollo asociado a Node
-
-
+* [Mongoose](https://mongoosejs.com/) -  Elegant mongodb object modeling for node.js
 
 ---
