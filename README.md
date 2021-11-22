@@ -1,10 +1,10 @@
-# PROYECTO HERENCIAS Y POLIMORFISMO
+# PROYECTO 1 EVALUACIÓN TYPESCRIPT
 
 _Realizado por Lucía Ramírez Monje 2ºAsir_
 
 ## Comenzando 🚀
 
-_Proyecto compuesto por dos directorios principales,  y la carpeta [doc](https://github.com/ramirezmonjelucia2/Proyecto03/tree/main/doc) con las [nociones teóricas](https://github.com/ramirezmonjelucia2/Proyecto03/blob/main/doc/NOCIONES%20TE%C3%93RICAS%20-%20HERENCIAS.pdf) sobre el proyecto y el [manual de instalación](https://github.com/ramirezmonjelucia2/Proyecto03/blob/main/doc/MANUAL%20INSTALACI%C3%93N.pdf), y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto03/tree/main/src) donde se desarrolla el proyecto_
+_Proyecto compuesto por dos directorios principales,  y la carpeta [doc](https://github.com/ramirezmonjelucia2/ramirezmonjelucia2-Proyecto1Ev_typescript-/tree/main/doc) con las [nociones teóricas](https://github.com/ramirezmonjelucia2/ramirezmonjelucia2-Proyecto1Ev_typescript-/blob/main/doc/NOCIONES%20TE%C3%93RICAS.pdf) sobre el proyecto y el [manual de instalación](https://github.com/ramirezmonjelucia2/ramirezmonjelucia2-Proyecto1Ev_typescript-/blob/main/doc/MANUAL%20INSTALACI%C3%93N.pdf), y la carpeta [src](https://github.com/ramirezmonjelucia2/ramirezmonjelucia2-Proyecto1Ev_typescript-/tree/main/src) donde se desarrolla el proyecto_
 
 
 ### Documentación 📋
@@ -35,14 +35,14 @@ _El proyecto consiste en:_
 
 ```
 - Un menú CRUD con diferentes opciones -
-[ 1 ] - AÑADIR EMPLEADO FIJO')
-[ 2 ] - AÑADIR EMPLEADO TEMPORAL')
-[ 3 ] - AÑADIR CASA')
-[ 4 ] - AÑADIR CHALET')
-[ 5 ] - SALARIOS')
-[ 6 ] - REALIZAR VENTA')
-[ 7 ] - VER VIVIENDAS VENDIDAS')
-[ 8 ] - DATOS DE PRUEBA')
+[ 1 ] - AÑADIR EMPLEADO FIJO
+[ 2 ] - AÑADIR EMPLEADO TEMPORAL
+[ 3 ] - AÑADIR CASA
+[ 4 ] - AÑADIR CHALET
+[ 5 ] - SALARIOS
+[ 6 ] - REALIZAR VENTA
+[ 7 ] - VER VIVIENDAS VENDIDAS
+[ 8 ] - DATOS DE PRUEBA
 
 ```
 
